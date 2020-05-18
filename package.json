@@ -1,0 +1,14 @@
+{
+  "name": "redux-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux.js",
+  "scripts": {
+    "dev": "nodemon redux.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
